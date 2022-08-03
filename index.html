@@ -11,17 +11,25 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="styles/main.css" />
-    <script type="module" src="/main.js" defer></script>
+    <script src="js/script.js" defer></script>
     <title>Vite App</title>
   </head>
-  <body>
-    <main id="card">
-      <p id="advice-number">ADVICE #<span>117</span></p>
-      <p class="quote">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias,
-        quas.
+  <body class="center-item bg-neutral-700">
+    <main id="card" class="bg-neutral-600 font-primary-400">
+      <p id="advice-number" class="font-primary-500 pad-bt-2">
+        ADVICE #<span>117</span>
       </p>
-      <img src="images/pattern-divider-mobile.svg" alt="" class="divider" />
+      <p class="quote pad-bt-1">
+        "It is easy to sit up and take notice, what's difficult is getting up
+        and taking action."
+      </p>
+      <picture class="divider">
+        <source
+          media="(min-width: 50em)"
+          srcset="images/pattern-divider-desktop.svg"
+        />
+        <img src="images/pattern-divider-mobile.svg" alt="" />
+      </picture>
       <button class="btn">
         <img src="images/icon-dice.svg" alt="" />
       </button>
