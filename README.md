@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/phanindraduvvuri/advice-generator/)
+- Live Site URL: [Live site URL](https://62ea11b28956c062be478250--bright-tartufo-39adae.netlify.app/)
 
 ## My process
 
