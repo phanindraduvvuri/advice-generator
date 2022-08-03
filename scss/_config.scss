@@ -1,0 +1,50 @@
+$clr-primary-400: hsl(193, 38%, 86%);
+$clr-primary-500: hsl(150, 100%, 66%);
+
+$clr-neutral-500: hsl(217, 19%, 38%);
+$clr-neutral-600: hsl(217, 19%, 24%);
+$clr-neutral-700: hsl(218, 23%, 16%);
+
+$ft-size-quote: 2.8rem;
+
+$ft-family: "Manrope", sans-serif;
+$ft-weight: 800;
+
+// Utility
+
+.font-primary-400 {
+  color: $clr-primary-400;
+}
+.font-primary-500 {
+  color: $clr-primary-500;
+}
+
+.bg-neutral-500 {
+  background-color: $clr-neutral-500;
+}
+.bg-neutral-600 {
+  background-color: $clr-neutral-600;
+}
+.bg-neutral-700 {
+  background-color: $clr-neutral-700;
+}
+
+.fw-800 {
+  font-weight: 800;
+}
+
+.fs-quote {
+  font-size: 2.8rem;
+}
+
+.pad-2 {
+  padding: 2em;
+}
+.pad-bt-2 {
+  padding: 2em;
+}
+
+.center-item {
+  display: grid;
+  place-items: center;
+}

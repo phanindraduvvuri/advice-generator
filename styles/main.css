@@ -1,0 +1,40 @@
+.font-primary-400 {
+  color: hsl(193deg, 38%, 86%);
+}
+
+.font-primary-500 {
+  color: hsl(150deg, 100%, 66%);
+}
+
+.bg-neutral-500 {
+  background-color: hsl(217deg, 19%, 38%);
+}
+
+.bg-neutral-600 {
+  background-color: hsl(217deg, 19%, 24%);
+}
+
+.bg-neutral-700 {
+  background-color: hsl(218deg, 23%, 16%);
+}
+
+.fw-800 {
+  font-weight: 800;
+}
+
+.fs-quote {
+  font-size: 2.8rem;
+}
+
+.pad-2 {
+  padding: 2em;
+}
+
+.pad-bt-2 {
+  padding: 2em;
+}
+
+.center-item {
+  display: grid;
+  place-items: center;
+}/*# sourceMappingURL=main.css.map */
